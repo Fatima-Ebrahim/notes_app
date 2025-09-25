@@ -36,7 +36,7 @@ lib/
 │   └── models/
 │       └── note.dart             // Defines the Note data structure
 │
-├── features/                   // 📦 Each folder is a self-contained feature
+├── features/                   //  Each folder is a self-contained feature
 │   └── notes/                  // All code related to the "Notes" feature
 │       ├── providers/
 │       │   └── note_provider.dart  // Manages the state for the notes feature
@@ -45,10 +45,21 @@ lib/
 │       └── widgets/
 │           └── add_note_dialog.dart  // The dialog widget for adding a new note
 │
-└── main.dart                   // 🚀 The application's entry point
+└── main.dart                   //  The application's entry point
 ```
 
 ---
+
+## 📸 Screenshots
+
+<img width="500" height="543" alt="image" src="https://github.com/user-attachments/assets/d2062e70-f22a-415a-ac98-978ed3df3b8a" />
+
+
+<img width="501" height="539" alt="image" src="https://github.com/user-attachments/assets/7d39d558-2e58-42cb-b82b-7727300b623d" />
+
+<img width="496" height="630" alt="image" src="https://github.com/user-attachments/assets/a83728f5-172a-4b50-be28-0937d1c6d925" />
+
+
 
 ## 🚀 Getting Started
 
