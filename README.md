@@ -1,6 +1,6 @@
 # Notes App - Flutter Client
 
-This is a clean, scalable, and professional Flutter application that serves as a mobile and web client for the [Notes API Backend](https://github.com/your-username/notes-api). The app allows users to view a list of notes and add new ones by communicating with the REST API.
+This is a clean, scalable, and professional Flutter application that serves as a mobile and web client for the [Notes API Backend](https://github.com/Fatima-Ebrahim/notes-api). The app allows users to view a list of notes and add new ones by communicating with the REST API.
 
 This project was built following modern Flutter development best practices, emphasizing a clear separation of concerns, scalable architecture, and robust state management.
 
@@ -58,13 +58,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 -   Flutter SDK (version 3.0.0 or higher)
 -   Visual Studio Code (recommended) with the Dart and Flutter extensions.
--   A running instance of the [Notes API Backend](https://github.com/your-username/notes-api).
+-   A running instance of the [Notes API Backend](https://github.com/Fatima-Ebrahim/notes-api).
 
 ### Installation & Configuration
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-flutter-repository-url>
+    git clone https://github.com/Fatima-Ebrahim/notes_app
     cd notes_client_flutter
     ```
 
